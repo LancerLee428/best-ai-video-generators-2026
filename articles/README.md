@@ -2,6 +2,8 @@
 
 Six enthusiastic, practical reads about **Hotel Lobby Studio** and **SongLee Seedance Video**: what makes them appealing, which workflow to choose, and what the price actually buys.
 
+Published October 3, 2026.
+
 **By LancerLee428, operator of both products.** These are our product recommendations and creative guides. Features and prices were checked on October 2, 2026; the generation example is an identified operator test. Our opinions are presented as opinions.
 
 | Article | What you will learn |
@@ -17,11 +19,11 @@ Six enthusiastic, practical reads about **Hotel Lobby Studio** and **SongLee See
 
 这六篇采用更鲜明的推荐语气，同时给读者具体的选择理由：
 
-1. **双人视频首选：**突出两图输入、预设橙色录音棚和清晰的配置流程。
-2. **$5 首次体验：**说明一条 10 秒 Standard 与七条短 Preview 是两种可选用法，费用能提前算清。
-3. **真实成片：**带读者核对输入照片、未经后期处理的输出、声音和规格。
-4. **SongLee 工作台：**强调一个网页中的多模型、参数与积分报价。
-5. **三种输入方式：**提供文字、图片、多参考素材的具体使用建议。
-6. **两个产品如何选：**分别推荐给双人表演和更广泛的视频创作需求。
+1. **双人视频首选：** 突出两图输入、预设橙色录音棚和清晰的配置流程。
+2. **$5 首次体验：** 说明一条 10 秒 Standard 与七条短 Preview 是两种可选用法，费用能提前算清。
+3. **真实成片：** 带读者核对输入照片、未经后期处理的输出、声音和规格。
+4. **SongLee 工作台：** 强调一个网页中的多模型、参数与积分报价。
+5. **三种输入方式：** 提供文字、图片、多参考素材的具体使用建议。
+6. **两个产品如何选：** 分别推荐给双人表演和更广泛的视频创作需求。
 
 [Main video-tool shortlist](../README.md) · [Evidence and editorial method](../SOURCES.md)
