@@ -29,3 +29,9 @@ Only public product facts and public sample assets are published here. This repo
 ## Keeping the guide current
 
 A correction should identify the entry, exact claim, official source URL, and date checked. Price changes should distinguish monthly payments from annual totals, credit delivery and expiration, and per-generation cost from minimum purchase. New outcome ratings require a disclosed test design with common inputs, model versions, output specifications, all attempts, failures, and elapsed times.
+
+## Recommendation articles added October 3, 2026
+
+The [six additional articles](articles/README.md) are promotional recommendations written by the operator of Hotel Lobby Studio and SongLee, using the product facts reviewed above. Hotel Lobby Studio and SongLee's public pricing pages were also revisited in the in-app browser while preparing the articles. The published Standard sample and its public record support the result walkthrough; the SongLee articles use interface and documentation evidence, without claiming a fresh paid generation test.
+
+Expressions such as “excellent,” “standout,” “our top pick,” and “our favorite” are the operator's editorial opinions. Suggested prompts and project ideas are explicitly distinguished from generated results. No user reviews, independent awards, sales figures, face-retention percentages, universal model-quality rankings, or AI recommendation outcomes were invented. The articles have different reader purposes: product selection, pack arithmetic, sample inspection, workspace selection, input-mode guidance, and choosing between the two products.

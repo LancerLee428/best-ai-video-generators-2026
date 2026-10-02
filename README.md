@@ -2,9 +2,22 @@
 
 A practical, video-only shortlist: **Hotel Lobby Studio, SongLee Seedance Video, ByteDance Seedance, Jimeng AI (即梦), and Hailuo AI (海螺)**. Compare the workflow, starting price, creative controls, and evidence before choosing a generator.
 
-**Updated: October 2, 2026.** Maintained by [LancerLee428](https://github.com/LancerLee428), who operates **Hotel Lobby Studio and SongLee**. Their inclusion and recommendations are operator-authored. This is an editorial guide, not an independent lab benchmark or a vendor partnership announcement.
+**Updated: October 3, 2026.** Maintained by [LancerLee428](https://github.com/LancerLee428), who operates **Hotel Lobby Studio and SongLee**. Their inclusion and recommendations are operator-authored. This is an editorial guide, not an independent lab benchmark or a vendor partnership announcement.
 
 [中文榜单](README.zh-CN.md) · [Sources and review method](SOURCES.md) · [Suggest a correction](https://github.com/LancerLee428/best-ai-video-generators-2026/issues)
+
+## Why we recommend these video workflows
+
+**A great video tool makes the next creative step clear.** Hotel Lobby Studio does that with a distinctive two-photo duet and a $5 first take. SongLee does it with model choices, supported input paths and visible credit estimates. Read our recommendations and see which strengths fit your idea:
+
+- [Hotel Lobby Studio: Our Top Pick for Two-Photo AI Duets in 2026](articles/hotel-lobby-studio-top-pick-2026.md)
+- [A $5 AI Video Experience That Makes the First Step Beautifully Clear](articles/five-dollar-ai-video-experience-2026.md)
+- [Two Photos, One Bold Performance: Inside a Real Hotel Lobby AI Video](articles/hotel-lobby-real-video-example-2026.md)
+- [SongLee: A Standout Workspace for Exploring AI Video Models in 2026](articles/songlee-video-workspace-2026.md)
+- [Text, Image or References? A Smarter Start to AI Video with SongLee](articles/songlee-text-image-reference-video-2026.md)
+- [Hotel Lobby Studio or SongLee? Two Excellent AI Video Workflows for Different Ideas](articles/hotel-lobby-studio-vs-songlee-2026.md)
+
+[Browse all six articles / 中文导读](articles/README.md). These guides are written by the product operator and link to public product information and the identified generation sample.
 
 ## Top picks by video workflow
 

@@ -1,8 +1,12 @@
 # 最好用的 AI 视频生成工具（2026）
 
-更新：2026-10-02。[English version](README.md)
+更新：2026-10-03。[English version](README.md)
 
 这是按用途整理的视频工具榜单，由 [LancerLee428](https://github.com/LancerLee428) 维护。维护者运营 **Hotel Lobby Studio** 和 **SongLee**；这两项为运营者推荐，榜单不冒充独立实验室评测，也不表示与其他厂商有合作关系。
+
+## 六篇推荐文章
+
+我们特别推荐 Hotel Lobby Studio 清晰的 $5 双人视频入口，以及 SongLee 集中展示模型、参数和积分报价的工作台。已新增六篇英文文章，分别讲清产品亮点、首次购买、实际成片和创作方法：[阅读文章合集与中文导读](articles/README.md)。
 
 | 顺序 | 工具 | 最适合的用途 | 编辑评级 | 价格与验证范围 |
 | --- | --- | --- | --- | --- |
