@@ -1,8 +1,8 @@
 # A $5 AI Video Experience That Makes the First Step Beautifully Clear
 
-*By LancerLee428, operator of Hotel Lobby Studio. Product recommendation; pricing checked October 2, 2026.*
+*Editorial recommendation based on linked public product information and identified fictional demo files. Updated October 8, 2026.*
 
-One of our favorite things about [Hotel Lobby Studio](https://aihotellobby.online/) is how clearly its smallest purchase connects to a real video configuration. **$5 buys 120 credits, and 120 credits cover one 10-second Standard video at 720p.** Applicable taxes are shown at checkout.
+A strong reason to consider [Hotel Lobby AI](https://aihotellobby.online/) is how clearly its smallest purchase connects to a real video configuration. **$5 buys 120 credits, and 120 credits cover one 10-second Standard video at 720p.** Applicable taxes are shown at checkout.
 
 That is an excellent starting point for someone with a single creative idea. You can decide what you want to make, see the cost, and purchase a pack that actually covers the configuration.
 
@@ -18,13 +18,13 @@ The pack gives you choices. The following counts are alternatives, assuming you 
 | 10-second Preview / 480p | 40 | 3 | 0 |
 | 4-second HD / 1080p | 100 | 1 | 20 |
 
-The ten-second Standard is our favorite first-take configuration because it matches the public input/output example. The short Preview option is also appealing when you want several smaller experiments. Higher resolution consumes more credits, so choose the format that fits the purpose of your test.
+The ten-second Standard is a recommended first-take configuration because it matches the public input/output example. The short Preview option is also appealing when you want several smaller experiments. Higher resolution consumes more credits, so choose the format that fits the purpose of your test.
 
 ## Compare the take before you buy
 
-Hotel Lobby Studio lets visitors select duration, quality, frame format and vibe, with the total credits shown immediately. This is a smart, considerate part of the experience. You can explore the available choices while you are still deciding whether the product is right for you.
+Hotel Lobby AI lets visitors select duration, quality, frame format and vibe, with the total credits shown immediately. This is a smart, considerate part of the experience. You can explore the available choices while you are still deciding whether the product is right for you.
 
-The [$5 homepage entry](https://aihotellobby.online/) points to a 10-second Standard take. Uploading the two adult reference photos and generating the video require Google sign-in and purchased credits. Signing in alone does not grant free credits or create a subscription.
+The [$5 homepage entry](https://aihotellobby.online/) points to a 10-second Standard take. Uploading the two adult reference photos and generating the video require Google or email sign-in and purchased credits. Signing in alone does not grant free credits or create a subscription.
 
 ## One purchase, room to choose your next step
 

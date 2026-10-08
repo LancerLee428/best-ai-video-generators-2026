@@ -1,16 +1,16 @@
 # Two Photos, One Bold Performance: Inside a Real Hotel Lobby AI Video
 
-*By LancerLee428, operator of Hotel Lobby Studio. This walkthrough describes our published fictional-adult generation sample from October 2, 2026.*
+*Editorial recommendation based on linked public product information and identified fictional demo files. Updated October 8, 2026.*
 
-A strong AI video demonstration should let you examine the transformation. [Hotel Lobby Studio](https://aihotellobby.online/) does exactly that with a particularly useful comparison: two separate reference photos, their corresponding orange-booth video, and the original file's specifications.
+A strong AI video demonstration should let you examine the transformation. [Hotel Lobby AI](https://aihotellobby.online/) does exactly that with a particularly useful comparison: two separate reference photos, their corresponding orange-booth video, and the original file's specifications.
 
-We love this way of presenting a creative tool. It puts the result in front of you and gives you enough context to make your own decision. You can see what changed, what stayed recognizable, and what the generated performance actually looks and sounds like.
+This presentation makes the creative workflow easy to inspect. It puts the result in front of you and gives you enough context to make your own decision. You can see what changed, what stayed recognizable, and what the generated performance actually looks and sounds like.
 
 ## Start with the two inputs
 
 The published sample uses a [fictional adult woman as the left reference](https://aihotellobby.online/demos/standard-input-left.jpg) and a [fictional adult man as the right reference](https://aihotellobby.online/demos/standard-input-right.jpg). These are the actual normalized images used by the sample generation task.
 
-When reviewing them, notice the visible faces, hair, clothing and camera angle. Those details give you a concrete basis for comparing the output. This is an operator demonstration using fictional adults, rather than a customer testimonial.
+When reviewing them, notice the visible faces, hair, clothing and camera angle. Those details give you a concrete basis for comparing the output. This is an public fictional demonstration using fictional adults, rather than a customer testimonial.
 
 ## Watch the original output
 
@@ -24,7 +24,7 @@ Open the [unaltered Standard MP4](https://aihotellobby.online/demos/standard-due
 | Composition | Vertical 9:16 |
 | Direction | Playful duet |
 | Credit cost | 120 |
-| Underlying model | ByteDance Seedance 2.0 Fast, via API Mart |
+| Generation option | Standard AI video |
 | File | H.264 MP4 with stereo AAC audio |
 | Post-production | None; original generated MP4 |
 

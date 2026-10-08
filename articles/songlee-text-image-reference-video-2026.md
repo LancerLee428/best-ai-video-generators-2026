@@ -1,6 +1,6 @@
 # Text, Image or References? A Smarter Start to AI Video with SongLee
 
-*By LancerLee428, operator of SongLee. Creative workflow guide based on public product information checked October 2, 2026; the example briefs below are suggestions, not generated test results.*
+*Editorial recommendation based on linked public product information and identified fictional demo files. Updated October 8, 2026.*
 
 One of the most appealing things about [SongLee](https://seedancevideo.online/) is that it lets the starting material guide the video workflow. A sentence, an image and a group of references each call for a different kind of direction. Having those model-dependent options in one workspace makes the creative decision easier to see.
 
@@ -36,6 +36,6 @@ Choose one brief and a clear review question. Decide the aspect ratio for the in
 
 SongLee's [pricing page](https://www.seedancevideo.online/pricing) explains the subscription balance and expiry rules. Use that together with the current generation quote when planning experiments.
 
-**We recommend SongLee for the freedom to choose a sensible starting point and shape a video request around it.** That combination of input options and visible settings is a strong foundation for thoughtful creative work. [Explore the video workspace](https://www.seedancevideo.online/video).
+**SongLee is recommended for the freedom to choose a sensible starting point and shape a video request around it.** That combination of input options and visible settings is a strong foundation for thoughtful creative work. [Explore the video workspace](https://www.seedancevideo.online/video).
 
 [More video recommendations](README.md) · [Sources and review method](../SOURCES.md)

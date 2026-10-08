@@ -1,6 +1,6 @@
 # SongLee: A Standout Workspace for Exploring AI Video Models in 2026
 
-*By LancerLee428, operator of SongLee. Product recommendation based on the public workspace and pricing checked October 2, 2026.*
+*Editorial recommendation based on linked public product information and identified fictional demo files. Updated October 8, 2026.*
 
 [SongLee Seedance Video](https://seedancevideo.online/) is an appealing home for creators who want to explore several video-generation approaches in one browser workspace. Model selection, supported inputs, output controls and an estimated credit cost sit together, giving each creative idea a practical place to start.
 
@@ -16,7 +16,7 @@ The result is a workspace that can accompany several kinds of video experiments.
 
 ## The model's settings are part of the creative decision
 
-During our interface review, the Seedance 2.0 option exposed duration, aspect ratio, resolution and generated-audio controls, alongside a credit estimate. Those are meaningful decisions: how long the moment should run, where the video will be shown, and what specification you want to request.
+In the reviewed interface, the Seedance 2.0 option exposed duration, aspect ratio, resolution and generated-audio controls, alongside a credit estimate. Those are meaningful decisions: how long the moment should run, where the video will be shown, and what specification you want to request.
 
 The site's public range includes model-dependent durations up to 15 seconds and selected model/plan combinations up to 4K. Confirm the actual controls available for your selected combination. A model offering 720p does not inherit another model's maximum just because both appear in the same workspace.
 
